@@ -1,0 +1,1 @@
+Nếu không thể mở file bằng cách thủ công thì mở bằng cách vào Power Design rồi chọn open sau đó chọn file
